@@ -1,3 +1,3 @@
 # Learn git
 
-- adding new feature
+- adding new feature in the feature/new-thing
